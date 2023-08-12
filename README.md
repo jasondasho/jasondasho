@@ -1,20 +1,20 @@
 <h1>Hi, I'm Jason! -TEST SITE- 
 <h2>👨‍💻 Windows Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>Header 1 </b>
+  - [CMD LINE](https://github.com/)
+- <b>Header 2</b>
+  - [copy files](https://github.com)
 - <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmab)
+  - [Powershell 1](https://github.com/)
 
-  - <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+  - <b>C# (Desktop Applications)</b>
+  - [ITEM 1](https://github.com)
   - 
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [ITEM A)](https://github.com/)
 
-<h2> Lynx Projects>
+<h2> Lynx Projects:
 
 -
 <h2> 🤳 Connect with me:</h2>
