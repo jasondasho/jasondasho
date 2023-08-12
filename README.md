@@ -14,8 +14,8 @@
 - <b>Python</b>
   - [ITEM A)](https://github.com/)
 
-<h2> Certifications:<h2>
-  - [Google IT Support Professional](https://www.coursera.org/account/accomplishments/professional-cert/PQKLU77YAQLJ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof)
+<h2> Certifications:</h2>
+  - [Google IT Support Professional] src="https://www.coursera.org/account/accomplishments/specialization/certificate/PQKLU77YAQLJ"
 -
 <h2> 🤳 Connect with me:</h2>
 
