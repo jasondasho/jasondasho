@@ -1,5 +1,5 @@
 <h1>Hi, I'm Jason! -TEST SITE- 
-<h2>👨‍💻 Projects:</h2>
+<h2>👨‍💻 Home Labs:</h2>
 
 - <b>Header 1 </b>
   - [CMD LINE](https://github.com/)
