@@ -15,7 +15,7 @@
   - [ITEM A)](https://github.com/)
 
 <h2> Certifications:</h2>
-  - [Google IT Support Professional] src="https://www.coursera.org/account/accomplishments/specialization/certificate/PQKLU77YAQLJ"
+  - [Google IT Support Professional](https://www.coursera.org/account/accomplishments/specialization/certificate/PQKLU77YAQLJ)
 -
 <h2> 🤳 Connect with me:</h2>
 
