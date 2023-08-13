@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jason! -TEST SITE- 
+> <h1>Hi, I'm Jason! -TEST SITE- 
 <h2>👨‍💻 Home Labs:</h2>
 
 - <b>Command line </b>
@@ -12,29 +12,18 @@
   - [ITEM 1](https://github.com)
   - 
 - <b>Python</b>
-  - [ITEM A)](https://github.com/)
+  - [ITEM A](https://github.com/)
 
 <h2> Certifications:</h2>
-  - <b>Google IT Support Professional</b>
-  (https://www.coursera.org/account/accomplishments/specialization/certificate/PQKLU77YAQLJ)
+   
 
+ - [Google IT Support Professional](https://coursera.org/share/866f944dd590f814e4e4bb6f57925a6f)
+
+
+    
+          
 <h2> 🤳 Connect with me:</h2>
 
 
 
 [linkedin]: https://linkedin.com/in/
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
