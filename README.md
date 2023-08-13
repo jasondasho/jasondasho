@@ -15,12 +15,10 @@
   - [ITEM A)](https://github.com/)
 
 <h2> Certifications:</h2>
-  - [Google IT Support Professional](https://www.coursera.org/account/accomplishments/specialization/certificate/PQKLU77YAQLJ)
--
+  - <b>Google IT Support Professional</b>
+  (https://www.coursera.org/account/accomplishments/specialization/certificate/PQKLU77YAQLJ)
+
 <h2> 🤳 Connect with me:</h2>
-
-
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 
