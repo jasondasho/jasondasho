@@ -3,7 +3,8 @@
 
 - <b>Command Line & PowerShell </b>
   - [IPCONFIG](https://github.com/jasondasho/Find-IP-Lab)
-  - [Test-NetConnection](www.google.com) 
+  - [Test-NetConnection](https://github.com/jasondasho/Test-NetConnection)
+    
 
 <h2> Certifications:</h2>
    
