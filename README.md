@@ -1,18 +1,9 @@
 > <h1>Hi, I'm Jason! -TEST SITE- 
 <h2>👨‍💻 Home Labs:</h2>
 
-- <b>Command line </b>
+- <b>Command Line & PowerShell </b>
   - [IPCONFIG](https://github.com/jasondasho/Find-IP-Lab)
-- <b>Header 2</b>
-  - [copy files](https://github.com)
-- <b>item 3</b>
-  - [Powershell 1](https://github.com/)
-
-  - <b>Test line</b>
-  - [ITEM 1](https://github.com)
-  - 
-- <b>Python</b>
-  - [ITEM A](https://github.com/)
+  - [Test-NetConnection](www.google.com) 
 
 <h2> Certifications:</h2>
    
