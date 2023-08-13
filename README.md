@@ -17,7 +17,7 @@
 <h2> Certifications:</h2>
    
 
- - [Google IT Support Professional](https://coursera.org/share/866f944dd590f814e4e4bb6f57925a6f)
+ - [Google IT Support Professional](https://github.com/jasondasho/Find-IP-Lab/files/12328717/Coursera.PQKLU77YAQLJ.pdf)
 
 
     
