@@ -1,8 +1,8 @@
 <h1>Hi, I'm Jason! -TEST SITE- 
 <h2>👨‍💻 Home Labs:</h2>
 
-- <b>Header 1 </b>
-  - [CMD LINE](https://github.com/)
+- <b>Command line </b>
+  - [IPCONFIG](https://github.com/)
 - <b>Header 2</b>
   - [copy files](https://github.com)
 - <b>item 3</b>
